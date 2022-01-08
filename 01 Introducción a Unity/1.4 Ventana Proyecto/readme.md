@@ -4,7 +4,7 @@ La interfaz se compone de diferentes ventanas, de momento vamos a identificar lo
 
 Esta ventana es un reflejo de las carpetas que constituyen tu proyecto y que se encuentran organizadas en tu ordenador, es decir, cada vez que creemos un archivo o una carpeta, esta se creará automáticamente en la carpeta de **Assets** en tu disco y viceversa.
 
-img/
+![Ventana de proyecto Unity](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.4%20Ventana%20Proyecto/img/Ventana_proyecto_1.4.1.png "Ventana de Proyecto Unity")
 
 Este menú nos permite crear una gran variedad de elementos para el proyecto. Una muy utilizada es la creación de carpetas.
 
