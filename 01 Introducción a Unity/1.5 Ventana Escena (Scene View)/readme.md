@@ -18,7 +18,7 @@ Las teclas rápidas para acceder a los **botones de transformación** son:
 
 **Q ~ W ~ E ~ R ~ T ~ Y**
 
-/img
+![Teclas rápidas menú escena 1.5.2](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.5%20Ventana%20Escena%20(Scene%20View)/img/1.5_teclas_rapidas_transformacion_objetos_5.1.2.png "Teclas rápidas menú escena 1.5.2")
 
 /img
 
