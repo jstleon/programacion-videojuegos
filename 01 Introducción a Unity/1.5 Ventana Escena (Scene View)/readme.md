@@ -32,7 +32,7 @@ Si pulsas en los conos de colores la vista te mostrará en modo 2d la proyecció
 
 Otro elemento que debes conocer es el **menú de escena**. El primer menú desplegable te muestra distintos modos de representar la escena dividida en sectores. Te recomiendo que hagas la siguiente prueba: accede al menú Shaded y escoge la opción Shaded Wireframe; la escena se representará mostrando una vista de alambre dibujada encima del material como se muestra en la siguiente imagen.
 
-/img
+![Shaded Wireframe 1.5.5](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.5%20Ventana%20Escena%20(Scene%20View)/img/1.5_Shaded%20Wireframe_5.1.5.png "Shaded Wireframe 1.5.5")
 
 Al lado del menú anterior dispones de una serie de botones que activan y desactivan opciones de la ventana escena. El 2D activa y desactiva esta vista, el botón con el símbolo con una bombilla activa o desactiva las luces de la escena, el símbolo del altavoz hace lo propio con el sonido. El siguiente símbolo activa o desactiva el skybox, la niebla y otros efectos. El siguiente símbolo nos muestra la cantidad de elementos que permanecen ocultos. En el último icono puedes hacer modificaciones en el grid de tu escena.
 
