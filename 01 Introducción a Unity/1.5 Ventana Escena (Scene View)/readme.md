@@ -20,7 +20,7 @@ Las teclas rápidas para acceder a los **botones de transformación** son:
 
 ![Teclas rápidas menú escena 1.5.2](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.5%20Ventana%20Escena%20(Scene%20View)/img/1.5_teclas_rapidas_transformacion_objetos_5.1.2.png "Teclas rápidas menú escena 1.5.2")
 
-/img
+![Gizmo 1.5.3](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.5%20Ventana%20Escena%20(Scene%20View)/img/1.5_gizmo_1.5.3.png "Gizmo 1.5.3")
 
 En la parte superior derecha de la ventana nos encontramos con un **Gizmo**. El gizmo nos muestra la dirección en que se encuentra nuestra cámara visor escena. También podemos interactuar con el gizmo. Este objeto te permite visualizar en todos los ejes de coordenadas y también permite ver en dos modos; perspectiva e Isométrica. Si pulsas en el cuadro interior del gizmo, podrás cambiar la vista de perspectiva a ortográfica.
 
