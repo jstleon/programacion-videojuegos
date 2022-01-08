@@ -8,7 +8,7 @@ Lo primero que debemos descargar Download Unity Hub
 
 Para instalar Unity Hub haz una búsqueda en tu explorador y haz clic en el enlace que te llevará a la página de descargas.
 
-Al hacer clic se descargará el archivo UnityHubSetup:
+Al hacer clic se descargará el archivo **UnityHubSetup**:
 La extensión es .dmg si estás utilizando Mac o .exe si utilizas Windows, de cualquier forma, solo tienes que hacer doble clic en él para iniciar la instalación.
 
 Antes de nada, hacemos clic en el botón installs.
@@ -40,7 +40,7 @@ En el momento de escribir estas líneas la versión más nueva disponible que no
 
 Luego hacemos clic en next y en la siguiente pantalla verás una lista, es muy importante seleccionar adecuadamente los módulos a instalar de esta lista.
 
-![Imagen instalación Unity ](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.2%20Descarga%20e%20instalaci%C3%B3n%20de%20Unity/img/versiones_unity_2021.png "Instalación Unity 2021")
+![Imagen instalación Unity](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.2%20Descarga%20e%20instalaci%C3%B3n%20de%20Unity/img/versiones_unity_2021.png "Instalación Unity 2021")
 
 Si te quieres dedicar a realizar videojuegos NO suele ser buena idea estar actualizando constantemente a la última versión. Ya hemos comentado que puede que un proyecto que hiciste en una versión anterior no puedas abrirlo en una versión nueva por incompatibilidad en alguna de las mejoras realizadas.
 
