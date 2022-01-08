@@ -28,7 +28,7 @@ En la parte de abajo del Gizmo aparecen las letras Persp (perspectiva), si pulsa
 
 Si pulsas en los conos de colores la vista te mostrará en modo 2d la proyección del eje que hayas seleccionado. Por ejemplo, si pulsas en el cono rojo este representa el eje X y te mostrará la vista desde este punto como se muestra en la siguiente imagen. El color verde representa el eje Y y el color azul representa el eje Z.
 
-[Menú escena 1.5.4]!(https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.5%20Ventana%20Escena%20(Scene%20View)/img/1.5_menu_escena_5.1.4.png "Menú escena 1.5.4")
+![Menú escena 1.5.4](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.5%20Ventana%20Escena%20(Scene%20View)/img/1.5_menu_escena_5.1.4.png "Menú escena 1.5.4")
 
 Otro elemento que debes conocer es el **menú de escena**. El primer menú desplegable te muestra distintos modos de representar la escena dividida en sectores. Te recomiendo que hagas la siguiente prueba: accede al menú Shaded y escoge la opción Shaded Wireframe; la escena se representará mostrando una vista de alambre dibujada encima del material como se muestra en la siguiente imagen.
 
