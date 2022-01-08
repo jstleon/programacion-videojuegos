@@ -2,7 +2,7 @@
 
 La ventana escena, o también podemos llamarla vista escena, es la parte de la interfaz en la que vamos a interactuar con el mundo que estamos creando. Esta ventana la utilizaremos para crear nuestras escenas para seleccionar y posicionar personajes, cámaras, luces y todos los demás tipos de objetos de nuestro juego. Poder seleccionar, manipular y modificar objetos en la vista de escena son algunas de las habilidades que vas a aprender para comenzar a trabajar con Unity.
 
-[Ventana Escena 1.5.1]!(https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.5%20Ventana%20Escena%20(Scene%20View)/img/1.5%20Ventana%20Escena%205.1.1.png "Ventana Escena 1.5.1")
+![Ventana Escena 1.5.1](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.5%20Ventana%20Escena%20(Scene%20View)/img/1.5%20Ventana%20Escena%205.1.1.png "Ventana Escena 1.5.1")
 
 En la imagen de aquí arriba se muestran todos los objetos básicos que podemos encontrar en una escena para que puedas identificarlos con ando los nombremos.
 
