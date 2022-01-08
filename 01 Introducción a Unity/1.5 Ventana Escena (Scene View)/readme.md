@@ -36,7 +36,7 @@ Otro elemento que debes conocer es el **menú de escena**. El primer menú despl
 
 Al lado del menú anterior dispones de una serie de botones que activan y desactivan opciones de la ventana escena. El 2D activa y desactiva esta vista, el botón con el símbolo con una bombilla activa o desactiva las luces de la escena, el símbolo del altavoz hace lo propio con el sonido. El siguiente símbolo activa o desactiva el skybox, la niebla y otros efectos. El siguiente símbolo nos muestra la cantidad de elementos que permanecen ocultos. En el último icono puedes hacer modificaciones en el grid de tu escena.
 
-/img
+![Menú escena 1.5.4](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.5%20Ventana%20Escena%20(Scene%20View)/img/1.5_menu_escena_5.1.4.png "Menú escena 1.5.4")
 
 Para finalizar este menú existe otra opción llamada Gizmos que también te permite modificar el tamaño de los iconos y símbolos de nuestra escena y también podemos activar o desactivar elementos de la escena.
 
