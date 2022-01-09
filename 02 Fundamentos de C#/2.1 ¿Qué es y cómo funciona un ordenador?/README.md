@@ -13,6 +13,7 @@ Este chip es el corazón de cada computadora, puede haber uno (o varios) dentro 
 
 Vamos a analizar cómo se compone de arquitectura básica de una computadora. Vamos a ver un modelo que podría considerarse como la base para la mayoría de las arquitecturas. Tal vez has escuchado hablar sobre la memoria, discos duros o dispositivos de entrada y salida, bueno para demostrar cómo están conectados veamos el siguiente diagrama.
 
+![Fig. 2.1.1 Diagrama](https://github.com/jstleon/programacion-videojuegos/blob/main/02%20Fundamentos%20de%20C%23/2.1%20%C2%BFQu%C3%A9%20es%20y%20c%C3%B3mo%20funciona%20un%20ordenador%3F/img/Diagrama-ordenador%402x.png "Fig. 2.1.1 Diagrama")
 // Fig. 2.1.1 Diagrama
 
 Si hablamos de dispositivos de entrada como un teclado o dispositivo de salida con un monitor, ambos son controlados por una interfaz de entradas y salidas. Utiliza un bus de datos para comunicarse con el CPU, existen diferentes tipos de buses y para verlos de forma sencilla podemos verlos como carreteras que transforman información. 
