@@ -16,7 +16,7 @@ Figure 1.7.3
 
 Un objeto puede tener varios hijos, y a su vez los hijos pueden ser padres y tener hijos como te muestro a continuación.
 
-[Ventana Jerarquía 1.7.4](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.7%20Ventana%20Jerarqu%C3%ADa/img/1.7_ventana-jerarquia-parentesco_1.7.4.png "Ventana Jerarquía 1.7.4")  
+![Ventana Jerarquía 1.7.4](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.7%20Ventana%20Jerarqu%C3%ADa/img/1.7_ventana-jerarquia-parentesco_1.7.4.png "Ventana Jerarquía 1.7.4")  
 Figure 1.7.4
 
 En la imagen anterior puedes ver cómo el objeto Cube tiene como hijos a Plane, Capsule y Sphere, y a su vez Sphere es padre de Cylinder.
