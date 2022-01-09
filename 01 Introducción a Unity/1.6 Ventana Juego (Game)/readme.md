@@ -35,4 +35,4 @@ Estos botones de la barra de herramientas nos sirven para controlar el modo de r
 
 ***NOTA:*** Puedes cambiar el color de advertencia por uno más llamativo en la preferencias de Unity en el apartado **Colors**.
 
-/img 1.6.3
+![Preferencias Color modo Play 1.6.3](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.6%20Ventana%20Juego%20(Game)/img/1.6_preferencias_unity_color_play_mode_1.6.3.png "Preferencias Color modo Play 1.6.3")
