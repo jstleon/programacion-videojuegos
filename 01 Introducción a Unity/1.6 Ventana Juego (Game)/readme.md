@@ -10,17 +10,17 @@ Tenemos varias opciones para controlar cómo se muestra la imagen final de nuest
 ![Barra de herramientas en Game View 1.6.2](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.6%20Ventana%20Juego%20(Game)/img/1.6_barra-de-herramientas-del-Game-View_1.6.2.png "Barra de herramientas en Game View 1.6.2")
 
 ### Display 
-Contiene un menú desplegable para escoger la vista de la cámara que contiene la escena, por defecto está configurado para el Display 1.
+Contiene un menú desplegable para escoger la vista de la cámara que contiene la escena, por defecto está configurado para el Display 1.  
 
 
 
 ### Free Aspect
-Disponemos de una serie de valores predefinidos para probar cómo se vería nuestro juego en distintos formatos.
+Disponemos de una serie de valores predefinidos para probar cómo se vería nuestro juego en distintos formatos.  
 
 
 
 ### Scale
-Es un tirador que nos permite hacer zoom en la pantalla de juego para ver con más detalle nuestro juego para ver con más detalle nuestro juego o ver en modo global como se ve desde lejos.
+Es un tirador que nos permite hacer zoom en la pantalla de juego para ver con más detalle nuestro juego para ver con más detalle nuestro juego o ver en modo global como se ve desde lejos.  
 
 
 
