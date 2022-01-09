@@ -12,23 +12,30 @@ Tenemos varias opciones para controlar cómo se muestra la imagen final de nuest
 ### Display
 Contiene un menú desplegable para escoger la vista de la cámara que contiene la escena, por defecto está configurado para el Display 1.
 
+
 ### Free Aspect
 Disponemos de una serie de valores predefinidos para probar cómo se vería nuestro juego en distintos formatos.
+
 
 ### Scale
 Es un tirador que nos permite hacer zoom en la pantalla de juego para ver con más detalle nuestro juego para ver con más detalle nuestro juego o ver en modo global como se ve desde lejos.
 
+
 ### Maximize on Play
 Al tener activada esta opción, cuando ejecutamos el juego en Modo Play la ventana Game se maximizará para que juegues en pantalla completa.
+
 
 ### Mute audio
 Si activamos esta opción silenciamos cualquier audio que haya dentro del juego cuando entremos en modo Play.
 
+
 ### Stats
 Este botón activa o desactiva la ventana de estadísticas. Esta ventana nos ofrece información de renderizado gráfico y audio mientras está en modo Play
 
+
 ### Gizmos
 Este botón activa o desactiva la visibilidad de cierto tipo de gizmos o iconos que veríamos en la ventana escena.
+
 
 ### Play Mode
 Estos botones de la barra de herramientas nos sirven para controlar el modo de reproducción del editor y ver cómo se reproduce el juego en la ventana Game Un aspecto muy importante a tener en cuenta cuando trabajamos con este visor es que en modo de reproducción, los cambios que realicemos serán temporales, es decir, cuando paremos la reproducción de nuestro juego, todos los cambios que hayamos realizado se restablecerán a como estaban antes de entrar en modo de reproducción. La interfaz de usuario del editor se oscurece para advertirte de que estás en modo reproducción.
