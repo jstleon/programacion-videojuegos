@@ -7,7 +7,7 @@ Esta ventana es donde podemos ver el resultado de nuestra escena. Es donde se mu
 ## Barra de herramientas del Game View
 Tenemos varias opciones para controlar cómo se muestra la imagen final de nuestra escena desde el visor Game. A continuación se detallan algunos aspectos que debes tener en cuenta.
 
-/img 1.6.2
+![Barra de herramientas en Game View 1.6.2](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.6%20Ventana%20Juego%20(Game)/img/1.6_barra-de-herramientas-del-Game-View_1.6.2.png "Barra de herramientas en Game View 1.6.2")
 
 ### Display
 Contiene un menú desplegable para escoger la vista de la cámara que contiene la escena, por defecto está configurado para el Display 1.
