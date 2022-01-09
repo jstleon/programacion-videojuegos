@@ -1,0 +1,1 @@
+# 2.1 ¿Qué es y cómo funciona un ordenador?
