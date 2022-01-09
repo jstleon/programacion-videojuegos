@@ -1,4 +1,4 @@
-# 2.2 Variables, constantes y tipos de datos primitivos?
+# 2.2 Variables, constantes y tipos de datos primitivos
 
 ## Scripts en Unity
 Cuando creamos un Script en Unity, tendrá la siguiente apariencia:
@@ -43,11 +43,12 @@ public class NewBehaviourScript : MonoBehaviour
 Este código que vemos es el nombre de la clase que debe ser el mismo que el nombre del script y después de los dos puntos nos indica a qué clase pertenece y en este caso y siempre por defecto pertenece a monoBehaviour. Esta clase debe contener en su interior todo el contenido de nuestro script o dicho de otra manera el comportamiento que queremos que se ejecute.
 
 ````C#
+    // Start is called before the first frame update
     void Start()
     {
         
     }
-
+    // Update is called once per frame
     void Update()
     {
 
@@ -103,7 +104,7 @@ Adicionalmente en esta declaración podemos notar que se agregó una letra f des
 
 Al igual que con los métodos hay ciertos rasgos que debemos seguir a la hora de declarar nombres de nuestras variables, por ejemplo, el nombre de variable oneItem no va a funcionar en los siguientes casos:
 
-· No podemos iniciar el nombre con un número: ejemplo: 1Item
+· No podemos iniciar el nombre con un número: ejemplo: 1Item  
 · No podemos tener espacios en los nombres, por ejemplo: one item
 
 También están las convenciones que siempre recomiendo seguir, en el caso de variables se utiliza camelCase para los nombres, es decir, la primera palabra va todo en minúscula y la primera letra de las palabras siguientes deben ir en mayúscula.
