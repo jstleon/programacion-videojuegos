@@ -24,12 +24,12 @@ Es un tirador que nos permite hacer zoom en la pantalla de juego para ver con m�
 #### Maximize on Play
 Al tener activada esta opción, cuando ejecutamos el juego en Modo Play la ventana Game se maximizará para que juegues en pantalla completa.
 
--
+__
 
 #### Mute audio
 Si activamos esta opción silenciamos cualquier audio que haya dentro del juego cuando entremos en modo Play.
 
--
+__
 
 #### Stats
 Este botón activa o desactiva la ventana de estadísticas. Esta ventana nos ofrece información de renderizado gráfico y audio mientras está en modo Play
