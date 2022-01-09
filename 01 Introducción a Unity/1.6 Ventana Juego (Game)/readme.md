@@ -1,6 +1,6 @@
 # 1.6 Ventana Juego (Game)
 
-Esta ventana es donde podemos ver el resultado de nuestra escena. Es don se muestra la compilación de todos los objetos, comportamientos, iluminación y todo ello renderizado desde la cámara que tengas dentro de la escena.
+Esta ventana es donde podemos ver el resultado de nuestra escena. Es donde se muestra la compilación de todos los objetos, comportamientos, iluminación y todo ello renderizado desde la cámara que tengas dentro de la escena.
 
 ![Ventana Game en Unity 1.6.1](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.6%20Ventana%20Juego%20(Game)/img/1.6%20Ventana%20Game%201.6.1.png "Ventana Game en unity 1.6.1")
 
