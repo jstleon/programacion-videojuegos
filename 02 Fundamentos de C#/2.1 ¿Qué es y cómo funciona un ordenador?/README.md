@@ -41,6 +41,7 @@ En computación no le podemos mandar bits individuales a un CPU. La unidad míni
 
 Si entendiste correctamente el párrafo anterior es sencillo darse cuenta de que estas unidades son unidades de almacenamiento, aquí dejo una tabla nos va a dejar más clara la relación entre estas unidades.
 
+![Fig. 2.1.2 Tabla unidades de almacenamiento](https://github.com/jstleon/programacion-videojuegos/blob/main/02%20Fundamentos%20de%20C%23/2.1%20%C2%BFQu%C3%A9%20es%20y%20c%C3%B3mo%20funciona%20un%20ordenador%3F/img/tabla_unidades_de_almacenamiento.png"Fig. 2.1.2 Tabla unidades de almacenamiento")
 // Figure 2.1.2 Tabla
 
 Las computadoras sólo entienden el lenguaje usando bits y empaquetado en bits, cuando nosotros hacemos código para crear un programa lo que estamos haciendo es comunicarnos con la computadora; sin embargo, sería muy complicado usar el lenguaje máquina.
