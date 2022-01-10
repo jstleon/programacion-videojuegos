@@ -209,3 +209,19 @@ No te preocupes si no entiendes del todo el uso de los operadores, tampoco tiene
 Los comentarios son líneas de texto que podemos escribir junto con nuestro código y que nos permiten entre otras cosas agregar indicadores de cómo funcionan partes de nuestro código, escribir pseudocódigo para planear bien el código que vamos a escribir antes de hacerlo, deshabilitar parte de nuestro código en busca de errores o simplemente para probar comportamientos diferentes, etc.
 
 > Nota: le llamamos pseudo código a una representación menos abstracta (si lo vemos desde el punto de vista del programador) de la tarea que va a realizar nuestro código que nos ayuda en el planteamiento antes de escribir línea de código.
+
+En C# existen dos formas de escribir un comentario, la primera es el comentario de línea simple y para escribir este tipo de comentarios basta con escribir dos diagonales seguidas, todo lo que esté a la derecha de esas diagonales contará como comentario y no afectará el comportamiento de nuestro código.
+
+````C#
+// Este es un comentario de línea
+int numberAsInt = 1;
+````
+También tenemos los comentarios multilínea o de bloque, esto no nos sirven principalmente para comentar varias líneas de código texto que se encuentren dentro del Scop del comentario, para abrir el Scop se utiliza una diagonal seguida de un asterisco (/*) y para cerrarlo usamos un asterisco seguido de una diagonal (*/)
+
+````C#
+/* Este es un comentario en bloque
+int numberAsInt = 1;
+string number = "" + numberAsInt;
+*/ 
+````
+Tienes que tener en mente siempre que, aunque los comentarios nos pueden ayudar en gran medida entender entender el código que estamos implementando, siempre es mejor mantener los comentarios al mínimo escribir código limpio, bien organizado y que sigan las convenciones, siempre será prioridad y nos permitirá solo escribir comentarios cuando sea absolutamente necesario.
