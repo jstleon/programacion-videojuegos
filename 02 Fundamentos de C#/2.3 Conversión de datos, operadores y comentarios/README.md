@@ -147,7 +147,7 @@ public class calcularVelocidad : MonoBehaviour
 | Asignar multiplicación | *= |
 | Asignar división | /= |
 
-Los operadores de asignación se usan básicamente para guardar un dato en una variable, de la forma que ya utilizamos el operador = para asignar valores anteriormente, podemos utilizar los operadores +=, -=, ``*``= y /= para en el momento de asignar además ejecutar una operación, por ejemplo, si a la variable le quiero sumar el contenido de la variable b, normalmente escribiremos la siguiente línea.
+Los operadores de asignación se usan básicamente para guardar un dato en una variable, de la forma que ya utilizamos el operador = para asignar valores anteriormente, podemos utilizar los operadores ``+=``, ``-=``, ``*=`` y ``/=`` para en el momento de asignar además ejecutar una operación, por ejemplo, si a la variable le quiero sumar el contenido de la variable b, normalmente escribiremos la siguiente línea.
 
 ````C#
 a = a + b;
