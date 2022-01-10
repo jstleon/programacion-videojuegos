@@ -152,3 +152,39 @@ Los operadores de asignación se usan básicamente para guardar un dato en una v
 ````C#
 a = a + b;
 ````
+Podemos tomar un atajo utilizando el operador += de la siguiente forma.
+````C#
+a += b;
+````
+Y lo mismo puedo hacer para restas, multiplicaciones y divisiones utilizando el resto de los operadores.
+
+### Operadores comparativos
+| Operador | Sígno |
+| --------- | ------- |
+| Igual que | == |
+| Diferentes a | != |
+| Mayor que | > |
+| Mayor o igual que | >= |
+| Menor que | < |
+| Menor o igual que | <= |
+
+Cuando usamos los operadores comparativos el resultado siempre se representa como verdadero o falso.
+
+El operador == nos regresa verdadero en caso de que los datos en ambos lados del operador sean iguales.
+
+!= devuelve verdadero cuando los datos comparados son diferentes.
+
+El operador > regresa verdadero cuando el dato a la izquierda del operador es mayor que el dato al lado derecho.
+
+El operador >= además de retornar verdadero cuando el dato de la izquierda es mayor, también lo hace cuando ambos datos son iguales.
+
+El operador > devuelve verdadero cuando el dato a la izquierda es menor que el dato a la derecha.
+
+El operador >= regresará verdadero cuando el dato a la izquierda es menor y también cuando los datos comparados son iguales.
+
+### Operadores lógicos
+| Operador | Sígno |
+| --------- | ------- |
+| AND | && |
+| OR | [||] |
+| NOT | ! |
