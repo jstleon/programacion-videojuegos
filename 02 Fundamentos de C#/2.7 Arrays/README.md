@@ -69,7 +69,7 @@ Para leer un valor almacenado dentro de una raíz es la misma lógica que al esc
 ````C#
 int [ ] vector3 = { 1, 2, 3 };
 Debug.Log(vector3[2]);
-````
+```
 Este código imprime el número tres en la consola.
 
 
