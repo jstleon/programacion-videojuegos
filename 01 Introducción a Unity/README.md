@@ -1,7 +1,7 @@
 # 01 Introducción a Unity
 
 ## [1.1 ¿Qué es Unity?](https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.1%20%C2%BFQu%C3%A9%20es%20Unity%3F)
-## [1.2 Descarga e instalación de Unity]
+## [1.2 Descarga e instalación de Unity](https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.2%20Descarga%20e%20instalaci%C3%B3n%20de%20Unity)
 ## [1.3 ...]
 ## [1.4 Ventana Proyecto]
 ## [1.5 Ventana Escena (Scene View)]
