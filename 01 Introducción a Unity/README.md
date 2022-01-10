@@ -2,7 +2,7 @@
 
 #### [1.1 ¿Qué es Unity?][1]
 #### [1.2 Descarga e instalación de Unity][2]
-#### [1.3 ...][3]
+#### [1.3 El proyecto y la interfaz de Unity][3]
 #### [1.4 Ventana Proyecto][4]
 #### [1.5 Ventana Escena (Scene View)][5]
 #### [1.6 Ventana Juego (Game)][6]
