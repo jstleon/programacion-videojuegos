@@ -291,7 +291,7 @@ public class NewBehaviourScript : MonoBehaviour
 
 > Fig.1.3.5 GameObject en la ventana del Inspector
 
-#### Awake y Start
+#### Awake vs Start
 Un poco más arriba hemos utilizado la función Start(), esta función, (o método) aparece por defecto junto con Update() cuando abrimos un nuevo script en C#. 
 
 ````C#
@@ -308,7 +308,7 @@ Sirven para inicializar valores y parámetros de nuestro juego. Sólo se ejecuta
 
 Awake se llamará justo antes de Start
 
-### Update y FixedUpdate
+### Update vs FixedUpdate
 Todo el código que se encuentre dentro de Update se ejecutará una vez por cada frame. Casi cualquier cosa que necesite cambiarse en nuestro juego, el movimiento la interacción tendrá que suceder a lo largo de una serie de frames. Cronómetros, detección de inputs, etc.
 
 El **Update** no se invoca en una cronología regular, si un frame toma más tiempo de procesar que el siguiente; entonces, el tiempo entre invocaciones de Update será diferente.
