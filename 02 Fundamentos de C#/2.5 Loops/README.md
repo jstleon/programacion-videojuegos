@@ -28,7 +28,7 @@ Después, también separado por punto y coma (;) tenemos el incremento, que bás
 Ejemplo de cómo podemos recorrer los elementos de un array utilizando una sentencia for:
 
 ````C#
-int [\] numberArray = {1, 2, 3};
+int [ ] numberArray = {1, 2, 3};
 
 for(int i = 0; i < 3; i++){
 	Debug.Log(numArray[i]);
