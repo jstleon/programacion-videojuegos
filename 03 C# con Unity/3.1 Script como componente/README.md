@@ -138,4 +138,40 @@ public class NewBehaviourScript : MonoBehaviour
     }
 }
 ````
+### void Start
+Hemos visto en el capítulo anterior brevemente qué es void Start. Para entender cómo funciona vamos a volver a realizar el mismo ejercicio y a explicarlo más detenidamente. Crea un mensaje para cada función que se va a mostrar por la ventana de Consola en Unity. Cuando queremos imprimir un mensaje debemos escribir Debug.Log(“”); Dentro del paréntesis de momento vamos a escribir entre comillas cuándo queremos poner texto, más adelante veremos qué opciones tenemos. A continuación te dejo el código que me gustaría que probaras.
+
+````C#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class NewBehaviourScript : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        Debug.Log("Nuestro primer mensaje");
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        Debug.Log("Es mensaje se va a repetir infinitamente!");        
+    }
+}
+````
+
+Una vez hayas escrito el código en tu script debes guardar el archivo seleccionando en la barra de herramientas principal **File > Save**. Ahora minimizamos el editor y nos dirigimos a Unity. Debes localizar la ventana Console en la interfaz si no lo ves puedes abrir esta ventana accediendo al menú principal en la opción **Window > General > Console**. Como te muestro en la siguiente imagen.
+
+> Fig. 3.1.2 Ventana consola
+
+Ahora para nuestro script funcione debemos agregarlo a un objeto en la escena, como no tenemos ninguno debemos crear un GameObject vacío, o por defecto el que tú quieras y arrastrar el script encima del objeto dentro de la ventana jerarquía o con el objeto seleccionado arrastrando el script encima de sus componente como te muestro a continuación en la siguiente imagen:
+
+> Fig. 3.1.3 Arrastrando nuestro Script sobre un GameObject
+
+Bien agregado el script ejecutamos el juego haciendo clic en play y pasamos unos segundos veremos el siguiente mensaje en consola:
+
+
+
 
