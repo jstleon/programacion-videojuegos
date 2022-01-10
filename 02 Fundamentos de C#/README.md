@@ -6,5 +6,5 @@
 ## [2.4 Estructuras condicionales](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.4%20Estructuras%20condicionales)
 ## [2.5 Loops](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.5%20Loops)
 ## [2.6 Funciones](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.6%20Funciones)
-## [2.7 Arrays]
+## [2.7 Arrays](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.7%20Arrays)
 ## [2.8 Clases]
