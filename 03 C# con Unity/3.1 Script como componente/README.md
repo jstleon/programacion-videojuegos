@@ -360,3 +360,29 @@ myLight.enabled = !myLight.enabled;
 usando el NOT (!) por delante de la variable. Enabled es un booleano, solo puede ser verdadero o falso. Observa en el inspector como se activa y se desactiva el checkbox el componente Light.
 
 > Fig. 3.1.6 Luz activada y desactivada
+
+### Activar/desactivar GameObjects
+Puedes activar o desactivar GameObjects a través de tus scripts usando la función SetActive. Es un conmutador on/off de nuestro objeto en términos de encontrarse activo en nuestra escena.
+
+````C#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class SetActive : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        gameObject.SetActive(false);   
+    }
+}
+````
+
+En este ejemplo tenemos una simple función Start que contiene un gameObject (La ‘g’ en minúsculas indica que estamos haciendo referencia al GameObject que lleva el script) seguido por un punto, seguido de la función SetActive() y como parámetro hemos puesto false.
+
+Si le asignas este código a cualquier objeto, desaparecerá de tu escena en cuanto le des al play. Aparecerá desactivado.
+
+Cuando trabajamos con objetos y jerarquías es importante conocer cuando desactivas a un padre, los hijos también se desactivarán. 
+
+
