@@ -2,7 +2,7 @@
 
 Durante los primeros capítulos hemos aprendido las bases de la programación utilizando C#, ahora sabemos que es un lenguaje orientado a objetos que está basado en clases a partir de las cuales podemos crear nuevos objetos ya sea que pertenezcan a las librerías propias del lenguaje o clases que nosotros hayamos creado manualmente.
 
-C# es el lenguaje que utilizaremos para trabajar y crear comportamientos dentro de Unity, la sintaxis y las convenciones de nombres que aprendimos hasta el momento se utilizan igual, al acceso a miembros, la inicialización de variables, la llamada de métodos, todo es absolutamente igual, lo que sí es diferente son las librerías que vamos a utilizar, Unity, al ser una herramienta concebida principalmente para crear videojuegos, tiene disponible muchísimas librerías que vuelven a esta herramienta algo muy poderoso y relativamente sencillo de utilizar, aunque como siempre, lograr algo de buena calidad requerirá de esfuerzo, constancia y paciencia, es muy importante siempre seguir practicando.
+Unity, al ser una herramienta concebida principalmente para crear videojuegos, tiene disponible muchísimas librerías que vuelven a esta herramienta algo muy poderoso y relativamente sencillo de utilizar.
 
 Algunas de las funciones que vamos a estudiar son referentes de la clase MonoBehaviour. Este primer apartado quiere ayudarte no solo a que entiendas cómo funcionan sino que aprendas también a consultar la documentación de Unity Scripting API. Puedes acceder desde el siguiente enlace:
 
