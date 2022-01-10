@@ -17,5 +17,5 @@
 [5]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.5%20Ventana%20Escena%20(Scene%20View
 [6]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.6%20Ventana%20Juego%20(Game)
 [7]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.7%20Ventana%20Jerarqu%C3%ADa
-[8]: https://
-[9]: https://
+[8]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.8%20Ventana%20Inspector
+[9]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.9%20Ventana%20Console
