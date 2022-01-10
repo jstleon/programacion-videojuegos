@@ -110,7 +110,8 @@ public class cambiarColor : MonoBehaviour
 ### Crear un Scripts en Unity
 Crea un proyecto nuevo en 3D con el nombre que quieras. En la ventana Project vamos a crear dos carpetas, una para  guardar las escenas y otra para guardar los scripts llamada Scripts.
 
-// Fig. 3.1.1 Scripts en Unity
+![Fig. 3.1.1 Scripts en Unity](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.1%20Script%20como%20componente/img/Fig.%203.1.1_scripts-en-unity.png)
+Fig. 3.1.1 Scripts en Unity
 
 Ahora vamos a crear un script dentro de la carpeta Scripts que hemos creado anteriormente. Seleccionamos la carpeta Scripts y hacemos **clic con el botón derecho** del ratón y seleccionamos **Create > C# Script**, automáticamente aparecerá un script con el nombre por defecto NewBehaviourScript.cs
 
