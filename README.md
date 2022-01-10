@@ -15,7 +15,8 @@ Repositorio con contenido de Curso de Programación de Videojuegos
 
 ----
 
-[1]: ### [01. Introducción a unity](https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity)
+ ### [01. Introducción a unity]
+[1]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity
 
 #### [1.1 ¿Qué es Unity?](https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.1%20%C2%BFQu%C3%A9%20es%20Unity%3F)
 #### [1.2 Descarga e instalación de Unity](https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.2%20Descarga%20e%20instalaci%C3%B3n%20de%20Unity)
