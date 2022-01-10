@@ -12,7 +12,7 @@
 
 [1]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.1%20%C2%BFQu%C3%A9%20es%20Unity%3F
 [2]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.2%20Descarga%20e%20instalaci%C3%B3n%20de%20Unity
-[3]: https://
+[3]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.3%20El%20proyecto%20y%20la%20Interfaz%20de%20Unity
 [4]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.4%20Ventana%20Proyecto
 [5]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.5%20Ventana%20Escena%20(Scene%20View
 [6]: https://github.com/jstleon/programacion-videojuegos/tree/main/01%20Introducci%C3%B3n%20a%20Unity/1.6%20Ventana%20Juego%20(Game)
