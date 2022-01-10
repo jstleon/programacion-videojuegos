@@ -1,8 +1,8 @@
 # 1.3 El proyecto y la interfaz de Unity
 Cuando creamos nuestro proyecto desde la interfaz de Unity Hub, una vez que hacemos clic en el botón New veremos la siguiente pantalla:
 
-
-> Fig 1.3.1 Creación de proyecto en Unity
+![Fig 1.3.1 Creación de proyecto en Unity](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.3%20El%20proyecto%20y%20la%20Interfaz%20de%20Unity/img/Fig_1.3.1_La%20interfaz%20de%20unity.png)
+> Fig 1.3.1 Creación de proyecto en Unity.
 
 
 Aquí hay tres cosas por configurar, primero a la izquierda de la pantalla tenemos que seleccionar uno de los templates que Unity tiene disponibles, estos templates nos ayudan a iniciar el proyecto con una configuración previamente establecida para el editor de Unity y que nos facilitará el desarrollo dependiendo del tipo de proyecto que vayamos a crear, puede ser un juego en 2D, un juego en 3D y también tenemos por ejemplo Universal Render Pipeline.
