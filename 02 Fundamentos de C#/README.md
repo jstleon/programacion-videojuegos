@@ -7,4 +7,4 @@
 ## [2.5 Loops](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.5%20Loops)
 ## [2.6 Funciones](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.6%20Funciones)
 ## [2.7 Arrays](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.7%20Arrays)
-## [2.8 Clases]
+## [2.8 Clases](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.8%20Clases)
