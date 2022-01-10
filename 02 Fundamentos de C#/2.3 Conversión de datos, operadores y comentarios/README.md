@@ -186,5 +186,5 @@ El operador >= regresará verdadero cuando el dato a la izquierda es menor y tam
 | Operador | Sígno |
 | --------- | ------- |
 | AND | && |
-| OR | ``||`` |
+| OR  | *||* |
 | NOT | ! |
