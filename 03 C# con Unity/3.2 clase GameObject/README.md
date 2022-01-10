@@ -117,7 +117,7 @@ public class Ejemplo01 : MonoBehaviour
 ````
 Para terminar este apartado tienes que saber que también puedes crear GamesObjects utilizando el constructor. El constructor de una clase GameObject tiene el objetivo de que puedas crear nuevos objetos de esa misma clase (como todos los constructores). Para que entiendas mejor a lo que me refiero es que podemos crear nuevos objetos dentro de la escena. Primero te voy a invitar a consultar la documentación accediendo a este enlace:
 
-(https://docs.unity3d.com/ScriptReference/GameObject-ctor.html)
+[https://docs.unity3d.com/ScriptReference/GameObject-ctor.html](https://docs.unity3d.com/ScriptReference/GameObject-ctor.html)
 
 ````C#
 using System.Collections;
