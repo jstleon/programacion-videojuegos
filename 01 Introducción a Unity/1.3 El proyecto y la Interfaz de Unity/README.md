@@ -17,4 +17,5 @@ La diferencia entre elegir 2D y 3D o Universa Render Pipeline, radica en que Uni
 
 Esto es lo primero que veremos al abrir un nuevo proyecto. Puedes modificar la disposición de las ventanas en la esquina superior derecha en el menú Layout.
 
+![Fig 1.3.3 Selección de Layout](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.3%20El%20proyecto%20y%20la%20Interfaz%20de%20Unity/img/Fig_1.3.3%20Layout.png)
 > Fig 1.3.3 Selección de Layout
