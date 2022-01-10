@@ -36,7 +36,8 @@ public class Ejemplo_01 : MonoBehaviour
 
 Si reproduces tu escena verás aparecer en la consola el nombre del cubo rojo.
 
-> Fig 3.2.2 
+![Fig 3.2.2 Escena Unity](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.2%20clase%20GameObject/img/Fig.3.2.2%20Escena%20cubo%2C%20esfera%20y%20cilindro.png)
+> Fig 3.2.2 Escena Unity
 
 Vamos a modificar el código del script para mostrar el nombre de la esfera en la consola.
 
