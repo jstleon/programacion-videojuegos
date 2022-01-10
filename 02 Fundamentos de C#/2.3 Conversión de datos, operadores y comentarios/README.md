@@ -97,5 +97,52 @@ En esta sección veremos con detalle de los operadores, ya utilizamos algunos de
 | Incremento | ++ |
 | Decremento | -- |
 
+Probablemente la mayoría de los aritméticos son muy obvios.
 
+El operador + suma dos números o variables, además del uso que ya vimos para concatenación.
 
+El operador - resta dos números o variables, también puede usarse para indicar que un número es negativo.
+
+El operador * se usa para multiplicar dos números o variables
+
+El operador / Divide
+
+El operador % devuelve el resto de una división entre dos números o variables
+
+los operadores de incremento ++ y decremento -- se colocan delante o detrás de una variable int o byte para incrementar o decrementar su valor 1.
+
+Los operadores aritméticos nos permiten realizar operaciones con nuestras variables, es decir si tenemos una variable energía = 100 y un enemigo te dispara con un arma de daño = 50, a tu energía se le restará 50.
+
+Vamos a calcular la velocidad que tiene un objeto sabiendo la distancia recorrida y el tiempo que hemos utilizado.
+
+````C#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class calcularVelocidad : MonoBehaviour
+{
+    private float velocidad;
+    public float tiempo = 5.1f;
+    public float distancia = 8.1f;
+
+    void Start()
+    {
+        
+    }
+
+    void Update()
+    {
+        velocidad = distancia / tiempo;
+        Debug.Log("Mi velocidad es de: " + velocidad);
+    }
+}
+````
+### Operadores de Asignación
+| Operador | Sígno |
+| --------- | ------- |
+| Asignar | = |
+| Asignar suma | += |
+| Asignar resta | -= |
+| Asignar multiplicación | *= |
+| Asignar división | /= |
