@@ -5,6 +5,7 @@ Para crear un **GameObject** puedes hacerlo de muchas formas distintas una de el
 
 En cuanto selecciones el GameObject Cube verás que en la ventana del Inspector aparecen las propiedades de este objeto. A continuación voy a explicarte las características de este gameObject.
 
+[Fig. 1.8.1 Ventana del inspector](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.8%20Ventana%20Inspector/img/1.8_ventana-inspector_1.8.1.png)
 > Fig. 1.8.1 Ventana del inspector
 
 Esta ventana tiene una parte superior y a continuación en su parte inferior se divide en paneles o componentes que se pueden colapsar mediante una flecha en la parte superior izquierda.
