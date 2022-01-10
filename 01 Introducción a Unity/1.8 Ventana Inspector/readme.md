@@ -12,6 +12,7 @@ Esta ventana tiene una parte superior y a continuación en su parte inferior se 
 
 En la parte superior de la ventana Inspector puedes realizar las siguientes acciones: El primer elemento es un cubo que en realidad es una herramienta que te permite asignar un icono al objeto para diferenciarlo en una escena del resto de objetos. Por ejemplo en una escena muy grande poder encontrar al jugador.
 
+![Fig. 1.8.2 Cambiar icono de un GameObject](https://github.com/jstleon/programacion-videojuegos/blob/main/01%20Introducci%C3%B3n%20a%20Unity/1.8%20Ventana%20Inspector/img/1.8_ventana-inspector-iconos_1.8.2.png)
 > Fig. 1.8.2 Cambiar icono de un GameObject
 
 Al lado del selector de iconos dispones de una caja selectora que desactiva el objeto cuando no está seleccionada y activa el objeto cuando está seleccionada. A su lado puedes cambiar el nombre al objeto, en este ejemplo por defecto llamado Cube.
