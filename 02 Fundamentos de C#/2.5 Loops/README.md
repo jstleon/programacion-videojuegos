@@ -47,19 +47,13 @@ public class bucleFor : MonoBehaviour
     public int tabla;
     private int resultado;
     private int valor;
-    // Start is called before the first frame update
+    
     void Start()
     {
         for (valor = 0; valor <= 10; valor++) {
             resultado = valor * tabla;
             Debug.Log(valor + " x " + tabla + " = " + resultado);
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
 ````
