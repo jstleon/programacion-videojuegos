@@ -1,7 +1,7 @@
 # 3.2 Clase GameObject
 
 Como hemos hecho con los eventos, ahora vamos a acceder a la documentación de GameObject:
-(https://docs.unity3d.com/ScriptReference/GameObject.html)
+[](https://docs.unity3d.com/ScriptReference/GameObject.html)
 
 En la documentación encontramos varios aspectos importantes que vamos a tratar en este apartado, pero antes vamos a tratar de entender la diferencia entre GameObject en mayúscula y gameObject en minúscula.
 
