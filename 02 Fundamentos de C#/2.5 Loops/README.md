@@ -57,4 +57,111 @@ public class bucleFor : MonoBehaviour
     }
 }
 ````
+## foreach
+La sentencia de iteración **foreach** resulta muy conveniente en varios casos ya que su sintaxis es muy sencilla y puede alterar en cualquier tipo de dato en numerables, es decir, que esté compuesto de un listado de datos, puede hacerlo tanto en un array como en una cadena de caracteres ya que esta cadena está compuesta de caracteres individuales y no tiene la necesidad de utilizar un índice.
+
+````C#
+int[] numberArray = {1, 2, 3, 4, 5};
+
+foreach(int number in numberArray) {
+	Debug.Log(number);
+}
+````
+Empezamos declarando un simple array y lo inicializamos con cinco números enteros, ya dentro del **foreach** empezamos con la declaración de la variable temporal **int number** seguida de la palabra clave **in** y el nombre del array.
+
+Lo que estamos indicando aquí es que por cada número entero que exista dentro de la raíz **numberArray** y la sentencia **foreach** va a iterar una vez, y en cada una de esas interacciones va a imprimir en la consola el valor correspondiente a la iteración, es por eso que en la consola vemos los números del uno al cinco que son los que almacenamos en array. 
+
+Aquí además vemos una gran ventaja al no utilizar un índice, ya que si por alguna razón cambiamos el tamaño del array, es decir, si agregamos o quitamos enteros del mismo, no es necesario modificar nuestro código del foreach ya que éste seguirá funcionando adecuadamente.
+
+````C#
+string greeting = "Hola!";
+foreach(char c in greeting);
+Debug.Log(c);
+````
+En este ejemplo podemos observar que no declaramos array alguno, ni utilizamos ningún índice, sin embargo, foreach nos permite iterar a través de cada uno de los caracteres de la cadena y los imprime uno por uno.
+
+## while
+también tenemos disponibles los bucles while, los cuales seguirán iterando mientras una condición indicada entre paréntesis se siga cumpliendo, aquí un ejemplo para revisar su sintaxis.
+````C#
+int i = 0;
+while(i < 10){
+	i++;
+}
+````
+Primero tenemos que declarar un índice, luego entre paréntesis agregamos nuestra condición y dentro del **while** incrementamos el valor del índice, si tenemos un índice, una condición y un incremento, básicamente es lo mismo que una sentencia **for** pero con una sintaxis diferente.
+````C#
+public class bucleWhile : MonoBehaviour
+{
+
+    private int valor = 0;
+    public int tabla;
+    private int resultado;
+    
+    void Start()
+    {
+        while (valor <= 10) {
+            resultado = valor * tabla;
+            Debug.Log(valor + " x " + tabla + " = " + resultado);
+            valor++;
+        }
+    }
+}
+````
+
+## do-while
+La sentencia de iteración do-while es una variante de while en la cual el código dentro de la sentencia se ejecuta al menos una vez y la condición se evalúa al final de la sentencia en lugar de al inicio:
+
+````C#
+bool playerIsAlive = false;
+
+do {
+	/* El código escrito aquí se
+	ejecutará al menos una vez */
+}while(playerAlive == true);
+````
+
+Aquí declaramos el índice antes de la sentencia, igual que con un while, pero utilizamos la palabra clave do para iniciar la sentencia, todo el código que está dentro del scope (alcance) dentro del bloque de código ({ })se ejecutará al menos una vez y al final evaluamos la condición para ver si seguiremos liderando.
+
+También en este código vemos que podemos utilizar otro tipo de condiciones y no necesariamente contadores, en este caso el código de do-while se ejecutará al menos una vez y lo seguirá haciendo mientras la variable playerIsAlive sea igual a true.
+
+## break y continue
+Las palabras claves break y continue también forman parte importante de las herramientas de las que disponemos para controlar el flujo del código, anteriormente utilizamos **break** para finalizar la ejecución de la sentencias switch-case, al utilizarla dentro de una sentencia de iteración lo que logramos es salir de la misma y no seguimos iterando, si utilizamos **continue** lo que logramos es saltar a la siguiente iteración de la sentencia, es decir, solo ignoramos el código restante después de la palabra clave continue pero la sentencia seguirá iterando si su condición se sigue cumpliendo.
+
+> Ejercicio: Imprime los números del 10 al 1
+
+````C#
+for(int i = 10; i > 0; i--){
+	Debug.Log(i);
+}
+````
+
+En esta solución utilizamos un **for** en el cual inicializamos un índice en 10 que es el primer número que queremos imprimir, después en nuestra condición indicamos que siga iterando mientras el índice sea mayor a cero ya que queremos seguir imprimiendo los números hasta llegar 1, y también cambiamos la forma de modificar el índice, ya que en este caso estamos de decrementando en lugar de incrementar el valor del índice, así obtenemos el resultado deseado en nuestra consola.
+
+````C#
+int i = 10;
+while(i > 0){
+	Debug.log(i);
+	i--;
+}
+````
+
+Aunque en este caso estamos utilizando un while, en realidad el comportamiento del índice y la condición son idénticos a los que utilizamos para el primer caso, iniciamos nuestro índice en 10, y se ejecuta un bucle mientras el índice sea mayor a cero y de incrementamos el índice en lugar de implementarlo.
+
+La sentencia de iteración pueden resultar un poco confusas en un principio, sin embargo, son bastante sencillas de implementar y bastante comunes de utilizar en el día día, como siempre, la recomendación es seguir practicando con ejercicios sencillos.
+
+Algo muy importante a tomar en cuenta es que podemos crear sentencias de interacción infinitas, mejor conocidas como Luke’s infinitos, es decir, sentencias cuya condición de finalización nunca se cumple, en algunas ocasiones estas pueden resultar útiles, pero también en ocasiones pueden ser muy peligrosas y causar el fallo en la ejecución de una publicación, tomemos como ejemplo el siguiente código:
+
+````C#
+int i = 10;
+while(i > 0){
+	Debug.log(i);
+	i++;
+}
+````
+
+Es prácticamente el mismo código que nuestro ejemplo anterior, con la diferencia de que el índice está incrementando, lo cual causaría que la condición siempre se cumpla y una vez que nuestra aplicación llegue a esa parte del código, ahí se va a quedar para siempre y probablemente dejaría de comportarse como queremos e incluso en algunas ocasiones provocar que la aplicación se cierre de imprevisto.
+
+
+
+
 
