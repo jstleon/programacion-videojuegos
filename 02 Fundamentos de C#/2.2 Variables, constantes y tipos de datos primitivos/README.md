@@ -123,7 +123,7 @@ Además cada tipo de dato necesita reservar un número definido de bytes de memo
 Para poner un ejemplo, si quiero almacenar el número 10.75 en memoria, puedo hacerlo en una variable de tipo **float** y también puedo hacerlo en una variable de tipo **double**, ambos casos están permitidos y aparentemente no afectaría el funcionamiento de nuestra aplicación, sin embargo, al utilizar el tipo double estaríamos utilizando el doble de memoria sin ninguna necesidad.
 
 
-
-
+![Tabla tipos de datos 2.2.1](https://github.com/jstleon/programacion-videojuegos/blob/main/02%20Fundamentos%20de%20C%23/2.2%20Variables%2C%20constantes%20y%20tipos%20de%20datos%20primitivos/img/tabla_tipos_de_dato_2.2.1.png)
+Fig. 2.2.1 Tabla tipo de datos
 
 
