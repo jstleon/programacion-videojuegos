@@ -87,7 +87,7 @@ Así de sencillo puedes asignar un número entero a una cadena de caracteres.
 En esta sección veremos con detalle de los operadores, ya utilizamos algunos de los más comunes, pero existen muchos más e incluso están divididos en categorías: aritméticos, comparativos, de asignación, lógicos y bitwise. Revisemos cada una de las categorías separadas en tablas para que sea más fácil identificarlos.
 
 ### Operadores aritméticos
-| Aritméticos| 
+| Operador | Sígno |
 | --------- | ------- |
 | Suma | + |
 | Resta | - |
