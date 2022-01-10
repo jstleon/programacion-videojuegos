@@ -114,6 +114,16 @@ También como recomendación hay que usar nombres descriptivos, en este mismo ej
 ## Tipos de datos primitivos
 Los tipos de datos indican qué tipo de valor vamos a guardar en la respectiva variable, ya vimos tres ejemplos de declaraciones, dos utilizando tipo de dato entero (**int**) y otro utilizando el tipo de dato flotante (**float**), usamos **int** para guardar un dato que siempre va a ser decimal (Números enteros) y **float** para cuando queremos guardar un dato de coma flotante, es decir, un número con decimales, **int** y **float** son tipos de datos primitivos (o Built-in) ya que C# puede hacer uso de ellos sin necesidad de crear código adicional, simplemente los podemos utilizar.
 
+Además de estos hay varios otros tipos disponibles para que puedas utilizarlos a la hora de crear tu código, los más comunes a los demás de los que ya mencionamos son **byte**, **char** y **bool**, sin embargo esto puede variar dependiendo del tipo de aplicación que estés escribiendo.
+
+Los tipos de datos tienen un rango que indica cuál es el dato menor y el dato mayor que puedes almacenar dentro de esa variable específica, por ejemplo si declaramos una variable de tipo byte, dentro solo podemos almacenar números entre 0 y 255, si por ejemplo queremos asignar un número negativo o un número mayor a 255 esto no está permitido y nos provocará un error en el código.
+
+Además cada tipo de dato necesita reservar un número definido de bytes de memoria, es decir cada tipo ocupa un espacio en nuestra memoria, hay tipos de datos que consumen más que otros, aquí hay que tener cuidado y normalmente utilizar el tipo de dato que menos memoria consume dentro de las posibilidades de nuestra aplicación.
+
+Para poner un ejemplo, si quiero almacenar el número 10.75 en memoria, puedo hacerlo en una variable de tipo **float** y también puedo hacerlo en una variable de tipo **double**, ambos casos están permitidos y aparentemente no afectaría el funcionamiento de nuestra aplicación, sin embargo, al utilizar el tipo double estaríamos utilizando el doble de memoria sin ninguna necesidad.
+
+
+
 
 
 
