@@ -8,7 +8,7 @@ En la documentación encontramos varios aspectos importantes que vamos a tratar 
 Si recordamos, cuando creamos un script y lo agregamos o arrastramos encima de un gameObject, por ejemplo un cubo, dentro del script para referirnos a el cubo lo escribimos en minúscula: gameObject.
 
 Si queremos hacer referencia a un GameObject externo o crear uno propio utilizaremos GameObject en mayúscula ya que en este caso hacemos referencia a la clase.
-
+![Fig. 3.2.1 gameObject vs GameObject](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.2%20clase%20GameObject/img/Fig.%203.2.1%20Cubo%20y%20esfera.png)
 > Fig. 3.2.1 gameObject vs GameObject
 
 En la imagen anterior representamos que a un cubo se le añade un script, dentro del script cuando queremos referirnos al propio objeto utilizaremos **gameObject**. En el caso de que el cubo quiera tomar referencia del objeto redondo dentro del script lo escribiremos en mayúsculas: **GameObject**.
