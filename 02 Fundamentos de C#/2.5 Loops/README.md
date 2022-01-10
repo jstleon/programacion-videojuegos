@@ -34,3 +34,33 @@ for(int i = 0; i < 3; i++){
 	Debug.Log(numArray[i]);
 } 
 ````
+
+Primero declaramos un arreglo (array) y lo inicializamos con los números 1, 2 y 3 dentro, después hacemos nuestra declaración del bucle for, que tiene condición iterar desde el índice 0 hasta el 2 ya que inicializamos nuestra variable i en 0 y la condición es que sea menor a 3, dentro del for imprimimos los valores que tienen numbersArray en cada uno de sus índices y vemos el resultado en la consola.
+
+````C#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class bucleFor : MonoBehaviour
+{
+    public int tabla;
+    private int resultado;
+    private int valor;
+    // Start is called before the first frame update
+    void Start()
+    {
+        for (valor = 0; valor <= 10; valor++) {
+            resultado = valor * tabla;
+            Debug.Log(valor + " x " + tabla + " = " + resultado);
+        }
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
+````
+
