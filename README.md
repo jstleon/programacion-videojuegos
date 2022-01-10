@@ -2,16 +2,16 @@
 Repositorio con contenido de Curso de Programación de Videojuegos
 
 ### [01. Introducción a unity][1]
-### [02. Fundamentos de C#](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23)
-### [03. C# con Unity]()
-### [04. Programación Orientada a Objetos (POO)]()
-### [05. Creación de un Player en C#]()
-### [06. Raycast]()
-### [07. Decals]()
-### [08. Programando nuestro UI]()
-### [09. Animando con Unity]()
-### [10. Proyecto animación de un personaje]()
-### [11. Navigation y Pathfinding]()
+### [02. Fundamentos de C#][2]
+### 03. C# con Unity
+### 04. Programación Orientada a Objetos (POO)
+### 05. Creación de un Player en C#
+### 06. Raycast
+### 07. Decals
+### 08. Programando nuestro UI
+### 09. Animando con Unity
+### 10. Proyecto animación de un personaje
+### 11. Navigation y Pathfinding
 
 ----
 
@@ -30,8 +30,8 @@ Repositorio con contenido de Curso de Programación de Videojuegos
 
 ----
 
-### [02. Fundamentos de C#](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23)
-
+### [02. Fundamentos de C#]
+[2]: https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23
 #### [2.1 ¿Qué es y cómo funciona un ordenador?](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.1%20%C2%BFQu%C3%A9%20es%20y%20c%C3%B3mo%20funciona%20un%20ordenador%3F)
 #### [2.2 Variables, constantes y tipos de datos primitivos](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.2%20Variables%2C%20constantes%20y%20tipos%20de%20datos%20primitivos)
 #### [2.3 Conversión de datos, operadores y comentarios](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.3%20Conversi%C3%B3n%20de%20datos%2C%20operadores%20y%20comentarios)
