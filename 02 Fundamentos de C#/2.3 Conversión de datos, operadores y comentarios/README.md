@@ -188,3 +188,24 @@ El operador >= regresará verdadero cuando el dato a la izquierda es menor y tam
 | AND | && |
 | OR  | \|\| |
 | NOT | ! |
+
+Los operadores lógicos los utilizamos en sentencias condicionales, por ejemplo, cuando una condición se cumple y necesitamos que otra más se cumpla utilizamos el operador **&&**, si necesitamos que se cumpla una de las dos condiciones entonces utilizamos el operador **||**, también tenemos el operador **!** que simplemente actúa como una negación de la condición, más adelante veremos ejemplos de estas sentencias de condición.
+
+**&&  (AND)**  = Ambos deben ser verdaderos
+**|| (OR)** = Uno de los dos debe ser verdadero
+**! (NOT)** = !true = false
+
+### Operadores Bitwise
+| Operador | Sígno |
+| --------- | ------- |
+| AND | & |
+| OR  | \| |
+
+Los operadores **Bitwise** se usan operadores a nivel de bits, son comúnmente utilizadas en programación de bajo nivel, uso de máscaras o encriptación, todos temas muy avanzados para el alcance de este manual, solo vamos a comentar que son equivalente de los operadores && y || pero los bitwise manejan esas comparaciones lógicas bit por bit.
+
+No te preocupes si no entiendes del todo el uso de los operadores, tampoco tienes que preocuparte por memorizarlos, en el transcurso de este módulo estaremos utilizando prácticamente todos (con excepción de bitwise) y verás que poco a poco los estarás utilizando intuitivamente.
+
+## Comentarios
+Los comentarios son líneas de texto que podemos escribir junto con nuestro código y que nos permiten entre otras cosas agregar indicadores de cómo funcionan partes de nuestro código, escribir pseudocódigo para planear bien el código que vamos a escribir antes de hacerlo, deshabilitar parte de nuestro código en busca de errores o simplemente para probar comportamientos diferentes, etc.
+
+> Nota: le llamamos pseudo código a una representación menos abstracta (si lo vemos desde el punto de vista del programador) de la tarea que va a realizar nuestro código que nos ayuda en el planteamiento antes de escribir línea de código.
