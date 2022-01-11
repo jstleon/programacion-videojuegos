@@ -29,7 +29,7 @@ public class Components : MonoBehaviour
 
 Este ejemplo anterior simplemente es para mostrarte que mediante programación podemos controlar con mucha precisión ciertos aspectos de los objetos. También verás que por consola solamente nos muestra un decimal en la posición. Antes de continuar quiero que entiendas que las transformaciones son de tres tipos:
 
-#### Posición
+#### **Posición**
 Que nos permiten desplazar los objetos por toda la escena
 
 #### Rotación
