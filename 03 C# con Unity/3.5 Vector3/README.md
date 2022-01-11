@@ -25,6 +25,7 @@ También se puede acceder a los valores de la tabla anterior desde **transform**
 
 Esto nos será de gran utilidad cuando aprendamos a mover nuestros objetos mediante teclado. En la siguiente imagen te represento un dibujo de como un cubo avanzaría una unidad utilizando el Vector3.forward.
 
+![Fig. 3.5.1 Vector3.right](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.5%20Vector3/img/Fig_3.5.1_vector3.right.png)
 > Fig. 3.5.1 Vector3.right
 
 #### Vectores y videojuegos
