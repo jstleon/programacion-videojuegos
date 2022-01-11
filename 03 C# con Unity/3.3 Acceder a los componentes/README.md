@@ -101,4 +101,4 @@ Ahora la variable myCollider puede acceder a las características del componente
 
 El tamaño necesita tres parámetros o valores decimales y por eso hemos creado un Vector3. Estudiaremos Vector3 en breve. De momento, si todo ha ido bien, deberías ver como el collider el cubo se hace 3 unidades más grande.
 
-[Descarga el package aquí](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.3%20Acceder%20a%20los%20componentes/packages/3.3%20Acceder%20a%20los%20componentes.unitypackage)
+[Descarga el package](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.3%20Acceder%20a%20los%20componentes/packages/3.3%20Acceder%20a%20los%20componentes.unitypackage)
