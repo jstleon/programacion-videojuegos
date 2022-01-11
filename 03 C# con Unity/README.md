@@ -1,4 +1,4 @@
-# 3.0 C# con Unity
+# 3 C# con Unity
 
 ### 3.1 Introducción
 ### 3.2 Clase GameObject
