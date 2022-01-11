@@ -56,6 +56,7 @@ Recuerda que todos los vectores están representados con relación al origen, el
 
 Esto es muy útil en nuestras tareas como desarrolladores de juegos que involucran predicciones. Debes tomar en cuenta que los componentes de la posición final son iguales a la suma de los componentes de los dos vectores. Esto también se aplica a la sustracción.
 
+![Fig. 3.5.5 Sumando vectores](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.5%20Vector3/img/Fig_3.5.5_suma-vectores.png)
 > Fig. 3.5.5 Sumando vectores
 
 Los vectores tridimensionales también funcionan como los de 2D pero extrapolados en el eje Z, el mismo que representa la profundidad. También veremos vectores 3D descritos en coordenadas cartesianas. Los vectores 3D simplemente son líneas dibujadas en el mundo 3D que tienen una dirección y una longitud.
