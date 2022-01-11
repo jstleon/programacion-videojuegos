@@ -6,7 +6,7 @@ Antes de continuar verás que hemos encontrado una estructura que es Vector3 que
 Si te fijas en la documentación verás que disponemos de una serie de variables estáticas que nos permiten resumir algunas posiciones que son muy comunes.
 
 | Vector 3 | Variable estática |
-------------------------------
+| ---------|-------------------|
 | new Vector3(0, 0, 0) | Vector3.zero |   
 | new Vector3(1, 1, 1) | Vector3.one |
 | new Vector3(0, 1, 0) | Vector3.up |
@@ -16,7 +16,7 @@ Si te fijas en la documentación verás que disponemos de una serie de variables
 También se puede acceder a los valores de la tabla anterior desde **transform** de la siguiente forma.
 
 | transform | Variable estática |
-------------------------------
+| ---------|-------------------|
 | transform.zero | Vector3.zero |   
 | transform.one | Vector3.one |
 | transform.up | Vector3.up |
