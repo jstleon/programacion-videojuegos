@@ -29,14 +29,11 @@ public class Components : MonoBehaviour
 
 Este ejemplo anterior simplemente es para mostrarte que mediante programación podemos controlar con mucha precisión ciertos aspectos de los objetos. También verás que por consola solamente nos muestra un decimal en la posición. Antes de continuar quiero que entiendas que las transformaciones son de tres tipos:
 
-#### **Posición**
-Que nos permiten desplazar los objetos por toda la escena
+**Posición:** Que nos permiten desplazar los objetos por toda la escena
 
-#### Rotación
-Nos permite rotar los objetos
+**Rotación:** Nos permite rotar los objetos
 
-#### Escalado
-Que nos permite cambiar el tamaño de los objetos
+**Escalado:** Que nos permite cambiar el tamaño de los objetos
 
 Todas las transformaciones se basan principalmente en tres ejes X, Y, Z que nos dan una posición, una rotación y un escalado más precisos. Estas tres coordenadas pueden ser utilizadas de un modo Global o un modo Local. De momento vamos a ir viendo poco a poco los 3 tipos y cómo podemos acceder a ellos.
 
