@@ -47,6 +47,7 @@ La hipotenusa en las matemáticas de vectores es la magnitud que estamos tratand
 
 También deberías saber que un objeto en movimiento, tiene una velocidad, un cambio de posición a medida que pasa el tiempo, esto también puede expresarse como un vector.
 
+![Fig. 3.5.4 Suma de vectores](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.5%20Vector3/img/Fig_3.5.4_distancia-recorrida.png)
 > Fig. 3.5.4 Suma de vectores
 
 En el diagrama de aquí arriba imaginemos que nuestro personaje se encuentra en una posición de (5, 6) con respecto al origen (0, 0) en un momento determinado y sabemos que tiene una velocidad de (12,5) por hora. Esto significa que viajará 12 unidades en el eje horizontal y 5 en el eje vertical. Para poder encontrar su posición después de una hora, vamos a añadir su vector de posición actual a su vector de velocidad, para descubrir dónde llegará, (17, 11).
