@@ -3,7 +3,7 @@ Repositorio con contenido de Curso de Programación de Videojuegos
 
 ### [01. Introducción a unity][1]
 ### [02. Fundamentos de C#][2]
-### 03. C# con Unity
+### [03. C# con Unity][3]
 ### 04. Programación Orientada a Objetos (POO)
 ### 05. Creación de un Player en C#
 ### 06. Raycast
@@ -40,3 +40,8 @@ Repositorio con contenido de Curso de Programación de Videojuegos
 #### [2.6 Funciones](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.6%20Funciones)
 #### [2.7 Arrays](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.7%20Arrays)
 #### [2.8 Clases](https://github.com/jstleon/programacion-videojuegos/tree/main/02%20Fundamentos%20de%20C%23/2.8%20Clases)
+
+----
+
+### 03. C# en Unity
+[3]: https://github.com/jstleon/programacion-videojuegos/tree/main/03%20C%23%20con%20Unity
