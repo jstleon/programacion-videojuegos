@@ -1,14 +1,30 @@
-# 3.1 Script como componente
+# 3.1 Introducción
 
 Durante los primeros capítulos hemos aprendido las bases de la programación utilizando C#, ahora sabemos que es un lenguaje orientado a objetos que está basado en clases a partir de las cuales podemos crear nuevos objetos ya sea que pertenezcan a las librerías propias del lenguaje o clases que nosotros hayamos creado manualmente.
 
-Unity, al ser una herramienta concebida principalmente para crear videojuegos, tiene disponible muchísimas librerías que vuelven a esta herramienta algo muy poderoso y relativamente sencillo de utilizar.
+Unity, al ser una herramienta concebida principalmente para crear videojuegos y experiencias interactivas en tiempo real, tiene disponible muchísimas librerías que vuelven a esta herramienta algo muy poderoso y relativamente sencillo de utilizar.
 
 Algunas de las funciones que vamos a estudiar son referentes de la clase MonoBehaviour. Este primer apartado quiere ayudarte no solo a que entiendas cómo funcionan sino que aprendas también a consultar la documentación de Unity Scripting API. Puedes acceder desde el siguiente enlace:
 
 https://docs.unity3d.com/ScriptReference/MonoBehaviour.html
 
-El manual nos proporciona información de cómo utilizar Unity, sus ventanas paneles y todo lo referente al programa en sí y el apartado de API es toda una recopilación de Clases, funciones, variables, etc. que podemos utilizar en nuestros scripts para programar en Unity.
+
+En este enlace verás un apartado Mensajes que en realidad son eventos.. un evento según la programación con C# es cuando ocurre algo.
+
+Los eventos habilitan una clase u objeto para notificarlo a otras clases u objetos. La clase que envía el evento recibe el nombre de publicador y las clases que reciben se denominan suscriptores.
+
+Algunas características sobre los eventos:
+
+* El publicador determina el momento en el que se genera un evento; los suscriptores determinan la acción que se lleva a cabo en respuesta al evento.
+
+* Un evento puede tener varios suscriptores. Un suscriptor puede controlar varios eventos de varios publicadores.
+
+* Nunca se generan eventos que no tienen suscriptores.
+
+* Los eventos se suelen usar para indicar acciones del usuario, como los clips de los botones o las selecciones de menú en las interfaces gráficas de usuario.
+
+
+> El manual nos proporciona información de cómo utilizar Unity, sus ventanas paneles y todo lo referente al programa en sí y el apartado de API es toda una recopilación de Clases, funciones, variables, etc. que podemos utilizar en nuestros scripts para programar en Unity.
 
 ````C#
 using System.Collections;
@@ -27,7 +43,6 @@ public class Evento : MonoBehaviour
     {
         Debug.Log("Esto es el Start");    
     }
-
    
     void Update()
     {
