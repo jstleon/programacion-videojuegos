@@ -42,6 +42,7 @@ En el ejemplo anterior, el vector va desde el origen a la posición 14,8, la lon
 
 La hipotenusa en las matemáticas de vectores es la magnitud que estamos tratando de encontrar.
 
+![Fig. 3.5.2 Magnitud de un vector](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.5%20Vector3/img/Fig_3.5.3_teorema-de-pitagoras.png)
 > Fig. 3.5.3 Teorema de Pitágoras
 
 También deberías saber que un objeto en movimiento, tiene una velocidad, un cambio de posición a medida que pasa el tiempo, esto también puede expresarse como un vector.
