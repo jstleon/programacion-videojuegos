@@ -33,6 +33,7 @@ En el diseño de videojuegos usamos vectores para definir mallas, direcciones, y
 
 Un vector es una línea que se dibuja entre dos puntos, los vectores también tienen una longitud, lo que se conoce como su **magnitud**. Vamos a comenzar viendo los vectores 2D.
 
+![Fig. 3.5.2 Magnitud de un vector](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.5%20Vector3/img/Fig_3.5.2_magnitud_vector.png)
 > Fig. 3.5.2 Magnitud de un vector
 
 Un vector 2D es una manera de representar un punto desde el origen, la coordenada (0,0) en un gráfico, a cualquier punto en el plano de 2D. Ya que desde el origen tiene una dirección implícita. Está constituido por dos componentes, X y Y. Estos representan la distancia desde cero a lo largo de los ejes horizontal y vertical.
