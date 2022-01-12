@@ -77,6 +77,7 @@ Es especialmente importante a tener en cuenta cuando se trabaja en assets de art
 
 Podemos ilustrar esto en 2D, ya que se aplicarán las mismas convenciones que en 3D.
 
+![Fig. 3.4.3 Posición Local vs Global](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.4%20Entender%20las%20transformaciones/img/3.4.3_Coordenadas_locales_globales.png)
 > Fig. 3.4.3 Posición Local vs Global
 
 El primer diagrama muestra dos objetos en un espacio. Un cuadrado grande existe en las coordenadas (3, 3), y uno más pequeño en las coordenadas (6, 7).
