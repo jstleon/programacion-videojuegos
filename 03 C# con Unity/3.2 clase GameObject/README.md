@@ -1,4 +1,4 @@
-# 3.2 Clase GameObject
+# 3.2 Clase GameObject 
 
 Como hemos hecho con los eventos, ahora vamos a acceder a la documentación de GameObject:
 [https://docs.unity3d.com/ScriptReference/GameObject.html](https://docs.unity3d.com/ScriptReference/GameObject.html)
