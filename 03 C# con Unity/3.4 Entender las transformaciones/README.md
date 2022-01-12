@@ -9,7 +9,7 @@ Estas tres opciones se caracterizan por un Vector3 en cada una de las transforma
 Si queremos empezar a mover nuestros objetos vamos a tener que entender Vector3.
 
 ### Vector3(x, y, z)
-
+![Fig. 3.4.1 Gizmos posición, escala y rotación](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.4%20Entender%20las%20transformaciones/img/3.4.1_gizmo_posicion_escala_rotacion.png)
 > Fig. 3.4.1 Gizmos posición, escala y rotación.
 
 En el inspector de Unity tenemos tres opciones de transformación que son posición, rotación y escalado. Estas tres opciones se caracterizan por un Vector3 en cada una de las transformaciones.
