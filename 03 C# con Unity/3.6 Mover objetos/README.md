@@ -51,4 +51,4 @@ En el Update sumamos a la posición actual vectores a cada GameObject. Si le das
 
 Debemos cambiar a tiempo en lugar de frames, y eso lo tenemos que  hacer con [Time.deltaTime][1].
 
-[1]: https://
+[1]: https://github.com/jstleon/programacion-videojuegos/tree/main/03%20C%23%20con%20Unity/3.7%20Time.deltaTime
