@@ -16,7 +16,7 @@ En el inspector de Unity tenemos tres opciones de transformación que son posici
 
 Un Vector3 se caracteriza por un valor en x, y, z. Estos valores son coordenadas que nos permiten posicionar, rotar o escalar un objeto.
 
-(https://docs.unity3d.com/ScriptReference/Transform.html )
+(https://docs.unity3d.com/ScriptReference/Transform.html)
 
 ````C#
 using System.Collections;
