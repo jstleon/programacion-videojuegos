@@ -8,6 +8,7 @@ La respuesta es que Update utiliza frameRate o un rango de fotogramas para ejecu
 
 Por eso existe el método Time, que es la clase y deltaTime que es el método. Cuando decimos delta hacemos referencia a un cambio en una cantidad; esto significa que deltaTime es un cambio en la cantidad de tiempo en segundos desde el último fotograma.
 
+![Fig. 7.3.1 Time, Frames y Time.deltaTime](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.7%20Time.deltaTime/img/Fig.%203.7.1_Time.deltaTime.png)
 > Fig. 7.3.1 Time, Frames y Time.deltaTime
 
 Vamos a utilizar el método Time.deltaTime para no depender del rango de fotogramas de la función Update, y crearemos una variable speed que será de tipo float y a la que multiplicaremos al tiempo para acelerar el movimiento de los GameObjects.
