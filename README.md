@@ -4,8 +4,8 @@ Repositorio con contenido de Curso de Programación de Videojuegos
 ### [01. Introducción a unity][1]
 ### [02. Fundamentos de C#][2]
 ### [03. C# con Unity][3]
-### 04. Programación Orientada a Objetos (POO)
-### 05. Creación de un Player en C#
+### 04. Creación de un Player en C#
+### 05. Programación Orientada a Objetos (POO)
 ### 06. Raycast
 ### 07. Decals
 ### 08. Programando nuestro UI
