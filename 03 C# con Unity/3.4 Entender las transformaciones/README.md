@@ -54,6 +54,7 @@ Entonces debemos estar familiarizados con los ejes de coordenadas cartesianas x,
 
 Esto es principalmente por limpieza, y también debido al hecho de que en la programación, estos valores deben ser escritos de esta manera. Independientemente de su presentación, se puede asumir que cualquier conjunto de tres valores separados por comas estarán en este orden: X, Y, Z.
 
+![Fig. 3.4.2 Vector3](https://github.com/jstleon/programacion-videojuegos/blob/main/03%20C%23%20con%20Unity/3.4%20Entender%20las%20transformaciones/img/3.4.2_vector3.png)
 > Fig. 3.4.2 Vector3
 
 
